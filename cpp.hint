@@ -1,0 +1,2 @@
+#define BASEPLUGIN_API __declspec(dllexport)
+#define BASEPLUGIN_API __declspec(dllimport)
